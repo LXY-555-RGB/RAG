@@ -191,12 +191,12 @@ def idiom_chain(user_idiom):
 
 #### 1.前端结果
 
-​	<img src="F:\tutorial\damoxing\RAG\运行结果\前端结果.png">
+​	<img src="F:\tutorial\damoxing\RAG\运行结果\前端结果.jpg">
 
 #### 2.后端结果
 
-<img src="F:\tutorial\damoxing\RAG\运行结果\后端结果.png">
+<img src="F:\tutorial\damoxing\RAG\运行结果\后端结果.jpg">
 
 #### 3.词语接龙结果
 
-<img src="F:\tutorial\damoxing\RAG\运行结果\chen.png">
+<img src="F:\tutorial\damoxing\RAG\运行结果\chen.jpg">
